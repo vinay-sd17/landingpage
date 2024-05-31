@@ -23931,7 +23931,7 @@ button.swiper-pagination-bullet {
     font-weight: 400;
     font-display: block;
     src: url("./fa-brands-400-WKLQVXHI.eot");
-    src: url("./fa-brands-400-WKLQVXHI.eot?#iefix") format("embedded-opentype"), url("./fa-brands-400-P3PKDBXJ.woff2") format("woff2"), url("./fa-brands-400-BZJ74T7K.woff") format("woff"), url("./fa-brands-400-TQBOV5XO.ttf") format("truetype"), url("./fa-brands-400-U5WVHP4Z.svg#fontawesome") format("svg")
+    src: url("./fa-brands-400-WKLQVXHI.eot?#iefix") format("embedded-opentype"), url("fa-brands-400-P3PKDBXJ.woff2") format("woff2"), url("./fa-brands-400-BZJ74T7K.woff") format("woff"), url("./fa-brands-400-TQBOV5XO.ttf") format("truetype"), url("./fa-brands-400-U5WVHP4Z.svg#fontawesome") format("svg")
 }
 
 .fab {
@@ -23944,7 +23944,7 @@ button.swiper-pagination-bullet {
     font-weight: 400;
     font-display: block;
     src: url("./fa-regular-400-UAKA47HK.eot");
-    src: url("./fa-regular-400-UAKA47HK.eot?#iefix") format("embedded-opentype"), url("./fa-regular-400-4KZ2TXH3.woff2") format("woff2"), url("./fa-regular-400-ATOVFAXS.woff") format("woff"), url("./fa-regular-400-ONDAC7F6.ttf") format("truetype"), url("./fa-regular-400-5Y37XTH5.svg#fontawesome") format("svg")
+    src: url("./fa-regular-400-UAKA47HK.eot?#iefix") format("embedded-opentype"), url("fa-regular-400-4KZ2TXH3.woff2") format("woff2"), url("./fa-regular-400-ATOVFAXS.woff") format("woff"), url("./fa-regular-400-ONDAC7F6.ttf") format("truetype"), url("./fa-regular-400-5Y37XTH5.svg#fontawesome") format("svg")
 }
 
 .fab, .far {
@@ -23957,7 +23957,7 @@ button.swiper-pagination-bullet {
     font-weight: 900;
     font-display: block;
     src: url("./fa-solid-900-S5EADJCE.eot");
-    src: url("./fa-solid-900-S5EADJCE.eot?#iefix") format("embedded-opentype"), url("./fa-solid-900-MIABT3M5.woff2") format("woff2"), url("./fa-solid-900-4Z3HBMDX.woff") format("woff"), url("./fa-solid-900-2WYKGVTL.ttf") format("truetype"), url("./fa-solid-900-ZVZSFP22.svg#fontawesome") format("svg")
+    src: url("./fa-solid-900-S5EADJCE.eot?#iefix") format("embedded-opentype"), url("fa-solid-900-MIABT3M5.woff2") format("woff2"), url("./fa-solid-900-4Z3HBMDX.woff") format("woff"), url("./fa-solid-900-2WYKGVTL.ttf") format("truetype"), url("./fa-solid-900-ZVZSFP22.svg#fontawesome") format("svg")
 }
 
 .fa, .far, .fas {
